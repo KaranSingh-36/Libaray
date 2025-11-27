@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Flamingo",
+        "author": "Neeraj",
+        "isbn": "",
+        "available": true
+    },
+    {
+        "title": "Python",
+        "author": "Neha Kaushik",
+        "isbn": "",
+        "available": true
+    }
+]
